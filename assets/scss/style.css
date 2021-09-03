@@ -1,18 +1,6 @@
 .container1 .row {
   font-weight: bold;
 }
-.container1 .row .col1 {
-  background-color: black;
-  color: white;
-}
-.container1 .row .col2 {
-  background-color: yellow;
-  color: white;
-}
-.container1 .row .col3 {
-  background-color: red;
-  color: white;
-}
 
 .space-container {
   height: 45px;
@@ -33,6 +21,16 @@
 }
 .interstice {
   width: 5px;
+}
+
+.pad {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #D8D8D8;
+}
+
+.pan {
+  background-color: #CDA5F3;
 }
 
 /*# sourceMappingURL=style.css.map */

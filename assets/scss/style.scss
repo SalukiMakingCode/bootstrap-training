@@ -1,18 +1,6 @@
 .container1 {
   .row {
     font-weight: bold;
-    .col1 {
-      background-color: black;
-      color: white;
-    }
-    .col2 {
-      background-color: yellow;
-      color: white;
-    }
-    .col3 {
-      background-color: red;
-      color: white;
-    }
   }
 }
 
@@ -35,6 +23,16 @@
 
 .interstice {
   width:5px;
+}
+
+.pad {
+  padding-top:10px;
+  padding-bottom:10px;
+  background-color: #D8D8D8;
+}
+
+.pan {
+  background-color:#CDA5F3;
 }
 
 
