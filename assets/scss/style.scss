@@ -1,0 +1,41 @@
+.container1 {
+  .row {
+    font-weight: bold;
+    .col1 {
+      background-color: black;
+      color: white;
+    }
+    .col2 {
+      background-color: yellow;
+      color: white;
+    }
+    .col3 {
+      background-color: red;
+      color: white;
+    }
+  }
+}
+
+.space-container {
+  height:45px;
+}
+
+.little-space-container {
+  height:15px;
+}
+
+.space-smart {
+  height:15px;
+}
+
+
+@media screen and (min-width:768px) {
+   .space-smart { display:none; }
+}
+
+.interstice {
+  width:5px;
+}
+
+
+
